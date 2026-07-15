@@ -1,28 +1,30 @@
 # QA Portfolio
 
-## О себе
-Junior QA Engineer. 
+## About Me
 
-Навыки:
-- написание тест-кейсов;
-- составление баг-репортов;
-- тестирование;
-- API-тестирование (Postman);
-- работа с DevTools и Fiddler.
+Junior QA Engineer.
 
-## Инструменты
+## Skills
+
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- API Testing
+- Test Documentation
+
+## Tools
 
 - Postman
+- TestRail
 - Chrome DevTools
 - Fiddler
-- Redmine
-- GitHub
+- Notion
 
-## Портфолио
+## Portfolio
 
-В репозитории представлены примеры с пройденного обучения:
-- Test Cases;
-- Bug Reports;
-- Test Documentation;
-- QA Theory;
-- API Testing.
+📁 Test Cases  
+📁 Bug Reports  
+📁 QA Documentation  
+📁 QA Theory  
+📁 Postman  
+📁 TestRail
