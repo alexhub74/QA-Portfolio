@@ -1,4 +1,4 @@
-# Checklist: SberMarket Web Application
+# Чеклист: СберМаркет Web
 
 ## Общая информация
 
